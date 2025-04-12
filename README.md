@@ -44,21 +44,20 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 ![image](https://github.com/user-attachments/assets/ddf3603b-bdfd-41f2-8a98-4ad93862fd9f)
 
 ### 2. Schematic of D Flip-Flop
-![Screenshot 2025-03-08 112009](https://github.com/user-attachments/assets/8efca33d-4b20-46de-bf28-e0cbf3bd1a6c)
+![WhatsApp Image 2025-04-12 at 09 59 26_d00e4e39](https://github.com/user-attachments/assets/1ac9ca69-bdd7-4e41-a4b0-d7beee1ad274)
 
 
 ### 3. Transient Response Setup
+![WhatsApp Image 2025-04-12 at 09 59 15_86d11772](https://github.com/user-attachments/assets/30136c40-5990-4a4a-bd6b-2e7842e8552b)
 
-![image](https://github.com/user-attachments/assets/a1b87a68-274c-45f4-8262-036a6c11c4d8)
-
-![image](https://github.com/user-attachments/assets/12a4c141-c3f6-4efd-a66f-a89c70848bcd)
 
 
 
 ## Output
 
 ### 1. Transient Analysis Output
-![Screenshot 2025-03-08 112821](https://github.com/user-attachments/assets/4ff6da47-7de7-480d-a90e-ebb0b66e2053)
+![WhatsApp Image 2025-04-12 at 10 00 25_1306ec26](https://github.com/user-attachments/assets/d691d35c-d467-4c84-8544-4dd865b8b952)
+
 
 
 ## Results
